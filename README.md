@@ -1,1 +1,1 @@
-# Predicting Depression from twitter
+# Predicting Mood from twitter
